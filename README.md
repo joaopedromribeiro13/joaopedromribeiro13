@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como Jovem Aprendiz de TI.
 - 🌱 Atualmente estou aprendendo APIs como Bootstrap e React.
-- 👯 Estou procurando colaborar em ...
+- 👯 Estou procurando colaborar em desenvolvimento de sites para ONG.
 - 🤔 Estou procurando ajuda com documentos de estudo para Javascript. 
 
 
