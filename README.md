@@ -27,5 +27,3 @@
 </div>
 
 
-
-![Snake animation](https://github.com/joaopedromribeiro13/joaopedromribeiro13/blob/output/github-contribution-grid-snake.svg)
