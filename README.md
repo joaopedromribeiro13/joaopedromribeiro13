@@ -1,9 +1,9 @@
 ###  Olá pessoal 👋
 
-- 🔭 Atualmente estou trabalhando como Auxiliar de Infraestrutura de TI.
-- 🌱 Atualmente estou aprendendo APIs como Bootstrap e desenvolvendo com a biblioteca React.
-- 👯 Estou procurando colaborar em desenvolvimento de sites para ONGs.
-- 🤔 Estou procurando ajuda com documentos de estudo para Javascript. 
+- 🔭 Atualmente estou trabalhando como Estagiário de TI.
+- 🌱 Atualmente estou aprendendo mais sobre Arduino e desenvolvendo com C++.
+- 👯 Estou procurando colaborar em desenvolvimento de sites e projetos de arduino.
+- 🤔 Estou procurando ajuda com documentos de estudo para C++ e C#. 
 
 
 
